@@ -1,7 +1,7 @@
 ### Hello, I'm Glenn 👋
 
 
-🔭 I’m currently studying at Universitas Pamulang
+🔭 I’m currently studying Informatics Engineering at Universitas Pamulang
 
 🌱 I’m currently learning Javascript and Wordpress
 
