@@ -8,7 +8,7 @@ Passionate about writing code, solving problems, automating stuff, and building 
 
 - 🌱 I’m currently learning Javascript
 
-- 👯 I’m looking to collaborate on UI/UX Design for Website
+- 👯 Still need a lot of improvement
 
 Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/glenn-vhalado-86b37b1a0/)](https://www.linkedin.com/in/glenn-vhalado-86b37b1a0/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gvhalado@gmail.com)](mailto:gvhalado@gmail.com)
