@@ -4,7 +4,7 @@
 
 Passionate about writing code, solving problems, automating stuff, and building software
 
-- 🔭 Junior Web Dev who use HTML, CSS and JS to make weird stuff.
+- 🔭 I’m currently studying Informatics Engineering at Universitas Pamulang
 
 - 🌱 I’m currently learning Javascript
 
