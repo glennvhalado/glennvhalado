@@ -6,7 +6,7 @@ Passionate about writing code, solving problems, automating stuff, and building 
 
 - 🔭 I’m currently studying Informatics Engineering at Universitas Pamulang
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning UI/UX Design and Javascript
 
 - 👯 Still need a lot of improvement
 
